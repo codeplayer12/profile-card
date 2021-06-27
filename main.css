@@ -1,0 +1,16 @@
+/* CSS google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+/* Base Colors */
+:root{
+    --primary-dark-cyan:hsl(185,75%,39%);
+    --primary-dark-desaturated-blue:hsl(229,23%,23%);
+    --primary-grayish-blue:hsl(227,10%,46%);
+
+    --neutral-dark-gray:hsl(0,0%,59%);
+}
+
+/* Typography */
+body{
+    font-size: 18px;
+}
